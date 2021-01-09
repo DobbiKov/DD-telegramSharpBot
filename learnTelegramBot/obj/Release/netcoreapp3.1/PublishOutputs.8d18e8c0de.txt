@@ -1,0 +1,7 @@
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\learnTelegramBot.exe
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\learnTelegramBot.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\learnTelegramBot.deps.json
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\learnTelegramBot.runtimeconfig.json
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\learnTelegramBot.pdb
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Release\netcoreapp3.1\publish\Telegram.Bot.dll
